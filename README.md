@@ -31,7 +31,7 @@ SmartFabric-AI-System/
 - Dress Model:
  https://drive.google.com/file/d/12TKvKDaJbbkmN1P6hknKxWLHagZDsHin/view?usp=drive_link
 - Fabric Model:
- https://drive.google.com/file/d/1lYOY3EBWW6gNc_AKp6-hjNSL3W_KwXTy/view?usp=drive_link  
+https://drive.google.com/file/d/1lYOY3EBWW6gNc_AKp6-hjNSL3W_KwXTy/view?usp=drive_link    
 - Defect Model:
  https://drive.google.com/file/d/1dDZPId8C3S4hf1gf7YLOFOhZ99jXmJvg/view?usp=drive_link
 
